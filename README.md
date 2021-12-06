@@ -1,2 +1,2 @@
-# honda-cbr-bootstrap-assignment-nahidpavelc
-honda-cbr-bootstrap-assignment-nahidpavelc created by GitHub Classroom
+# honda-cbr-shop
+honda-cbr-bootstrap-nahidpavelc
