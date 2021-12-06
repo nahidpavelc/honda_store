@@ -1,0 +1,43 @@
+.bg-cover{
+    background-color: #264653;
+}
+.bg-button{
+    background-color: #E76F51;
+}
+.font-color{
+    color: #ffff;
+}
+.img-grey {
+    filter: grayscale(100%);
+  }
+.bg-user{
+    color: #23A6F0;
+}
+.bg-star{
+    color: #E77C40;
+}
+.bg-btn{
+    background-color: #E76F51;
+}
+.bg-txt{
+    color: #ffff;
+}
+.bg-footer{
+    background-color: #0B0D17;
+}
+.bg-background{
+    background-color: white;
+}
+.font-style{
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: #ffff;
+}
+.btn-icon{
+    font-size: 18px;
+}
+.btn-font{
+    color: #0B0D17;
+}
